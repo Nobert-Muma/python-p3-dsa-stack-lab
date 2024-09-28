@@ -1,4 +1,4 @@
-# Stack Lab
+# Stack Lab.
 
 ## Learning Goals
 
